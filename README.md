@@ -1,9 +1,9 @@
 # Zipline
 ##Layout of zipline project based off the portfolio task on freecodecamp.
-##My thoughts.
-- It wastes a lot of space and requires a lot of scrolling to get information.
-- I'd like to condense the 4 pages into 2 pages:
-  - The first index page would stay the same and the 2nd page would combine the remaining information.
+##My thoughts on the project layout guide.
+- It wastes a lot of space and requires too much scrolling to get information.
+- I'd like to condense 4 pages into 2 pages:
+  - The first index page would contain the About information (maybe with a photo) and the 2nd page would combine the Portfolio and Contact information sections.
 
 
 ```
@@ -17,7 +17,7 @@
   │░░░░░┌──────────────────────────────────────────────────────────────────────────────────────┐░░░░░░░░░░│
   │░░░░░│                                                                                      │░░░░░░░░░░│
   │░░░░░│                                                                                      │░░░░░░░░░░│
-  │░░░░░│                                  Heading goes here                                   │░░░░░░░░░░│
+  │░░░░░│                                  Home information                                    │░░░░░░░░░░│
   │░░░░░│                                                                                      │░░░░░░░░░░│
   │░░░░░│                                                                                      │░░░░░░░░░░│
   │░░░░░└──────────────────────────────────────────────────────────────────────────────────────┘░░░░░░░░░░│
