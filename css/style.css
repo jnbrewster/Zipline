@@ -1,4 +1,4 @@
-html,
+tml,
 body,
 address,
 blockquote,
@@ -23,19 +23,50 @@ td,
 th,
 p,
 img {
-    margin: 0;
-    line-height: 1;
+  margin: 0;
+  line-height: 1;
+}
+
+.containerTop {
+  font-size: 2em;
+}
+
+#rightLinks {
+  padding-right: 10px;
+  display: inline-block;
+  float: right;
 }
 
 
-.name {
-    position: left;
+.containerMiddle {
+  float: middle;
+  display: inline-block;
+  font-size: 3em;
 }
 
-.navigationLeftButtons {
+#Heading {
 }
 
-.middleIndexButtons {
+.containerBottom {
+  font-size: 2em;
+}
+
+
+li {
+  list-style: none;
+}
+
+
+#home {
+  background:pink;
+  list-style-type: none;
+  display: inline;
+  padding-left: 10px;
+}
+
+#middleIndexButtons {
+  background:yellow;
+  display: inline-block;
 }
 
 
